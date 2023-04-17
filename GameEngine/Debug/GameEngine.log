@@ -1,0 +1,14 @@
+﻿  Engine.cpp
+c:\users\user\desktop\gameengine\gameengine\vector2d.h(9): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\gameengine\gameengine\vector2d.h(11): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\gameengine\gameengine\vector2d.h(15): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\gameengine\gameengine\engine.cpp(11): warning C4554: '|': 檢查運算子優先順序找出可能發生的錯誤; 使用括號釐清順序
+  MainCharacter.cpp
+c:\users\user\desktop\gameengine\gameengine\vector2d.h(9): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\gameengine\gameengine\vector2d.h(11): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\gameengine\gameengine\vector2d.h(15): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\gameengine\gameengine\maincharacter.cpp(10): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TextureManager.cpp
+  正在產生程式碼...
+c:\users\user\desktop\gameengine\gameengine\texturemanager.cpp(10): warning C4715: 'TextureManager::Load': 不是所有控制路徑都傳回值
+  GameEngine.vcxproj -> C:\Users\USER\Desktop\GameEngine\Debug\GameEngine.exe
